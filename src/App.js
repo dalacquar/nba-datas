@@ -1,6 +1,6 @@
-import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Home from './home/Home'; // Substitua pelo caminho correto do seu componente Home
+import React from "react";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import Home from "./pages/home/Home"; // Substitua pelo caminho correto do seu componente Home
 
 function App() {
   return (
